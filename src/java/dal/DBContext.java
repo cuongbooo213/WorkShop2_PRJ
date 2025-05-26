@@ -31,4 +31,7 @@ public class DBContext {
             System.out.println("Error closing connection: " + e.getMessage());
         }
     }
+    public static void main(String[] args) {
+        
+    }
 }
